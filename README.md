@@ -11,6 +11,7 @@ After downloading the code, cd into the file location and run this in the termin
 ```bash
 todolistv2 $ node app.js
 ```
+(Note: App may not work due to missing .env file needed to access database)
 
 ## Usage
 
